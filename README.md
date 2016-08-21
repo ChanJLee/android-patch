@@ -11,7 +11,7 @@
 
 使用：
 服务器端运行bsdiff old_file new_file patch_file生成差异文件，Android加入如下代码:
-‘’‘
+···
 YPatch.patch(oldFilePath, newFilePath, patchFilePatch)
-’‘’
+···
 将合成后的文件保存到newFilePath下
