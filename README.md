@@ -2,8 +2,8 @@
 用于实现Android端的增量升级
 
 # 目录结构
--- ypatchcore  是Android Studio工程，用于编译生成Android客户端的patch工具。
--- serverpatch 是用于生成服务器版本的diff，patch源代码
+- ypatchcore  是Android Studio工程，用于编译生成Android客户端的patch工具。
+- serverpatch 是用于生成服务器版本的diff，patch源代码
 
 # 安装
 1：对于ypatchcore直接导入到Android Studio中就可以
